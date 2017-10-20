@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Git clone
+git clone http://gitlab-ingdev.maif.local/david.fradin/gitlab-api-demo
+
 yarn install
+
 yarn start
